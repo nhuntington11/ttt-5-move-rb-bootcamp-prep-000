@@ -10,4 +10,5 @@ def input_to_index(user_input)
   return user_input.to_i - 1
 end
 
-def move(board_array, index_on_board, player_symbol)
+def move(board, index, player_symbol)
+end
