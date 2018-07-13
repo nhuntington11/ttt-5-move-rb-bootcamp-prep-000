@@ -7,5 +7,5 @@ def display_board(board)
 end
 
 def input_to_index(guess)
-  index_value = "guess".to_i - 1
+  return "guess".to_i - 1
 end
